@@ -18,57 +18,57 @@ React Native | JavaScript | Firebase
 - Demo: https://www.youtube.com/watch?v=1xm6WeXVX4w
 
 ## Iteration 1
-### Add New(Zongyi Jiang)
+### Add New
 - This screen allows users to share information of their favorite clothes, including title, image, and content. Utilized Firebase to store the clothes information.
 - Initialize the Firebase database
 
-### Discover(Jing Luo)
+### Discover
 - This screen shows beautiful pictures from users, Using useEffect, Firestore storage, Icons 
 - Working in process.
-### Top 10(Peiyao Li)
+### Top 10
 - Top 10 provides a content-based recommendation system based on user's favorite records. Working in progress.
 
-### My Profile(Peiyao Li)
+### My Profile
 - Working in progress.
 
 ## Iteration 2
 - Please refresh the page when image not loading
-### Add New(Zongyi Jiang)
+### Add New
 <!-- <img src="https://drive.google.com/uc?export=view&id=1-UAkF4ztUqyMXTYmf8O_PBe1ueanGVvk"  style="height:30%; width:30%" >
 <img src="https://drive.google.com/uc?export=view&id=1g63dmGFYloduYtKpQaIngUpKf3GrQ9El"  style="height:30%; width:30%" > -->
 - Add new features such as tracking user's geographic location with Google Map, uploading an image from photos library and taking an image in a mobile app.
 - Initialize the location service using Google Cloud
 
-### Discover(Jing Luo)
+### Discover
 <!-- <img src="https://drive.google.com/uc?export=view&id=1m50hsFLqLEiOVwVMijdkNRs9lKjQ9_Oz"  style="height:30%; width:30%" > -->
 - Add new features like searching specific clothes from database, voting like or dislike for further recommendations, adding reviews to the products.
 
-### Top 10(Peiyao Li)
+### Top 10
 <!-- <img src="![2387cb9f2454d26f62720650a13cf40](https://user-images.githubusercontent.com/78027883/205567358-12a88229-bc98-41c3-adc8-d17e5814c818.jpg)"  style="height:30%; width:30%" > -->
 - Working in progress.
 
-### My Profile(Peiyao Li)
+### My Profile
 <!-- <img src="https://drive.google.com/uc?export=view&id=1KEYCkhNZJKy8Uhi0rWSz1Wqch1Pxn4k1"  style="height:30%; width:30%" > -->
 - Add new features like showing user's basical info, adding authorization to ensure that only a user who created a post is able to delete.
 
-### Log In & Sign Up(Peiyao Li)
+### Log In & Sign Up
 <!-- <img src="https://drive.google.com/uc?export=view&id=1Ue7BaRX9FkObimQ3qTu8lSlFGvIc0vkG"  style="height:30%; width:30%" >
 <img src="https://drive.google.com/uc?export=view&id=1chrcKkG8ZAVzjCyp12GXUX2Dzr0uffVU"  style="height:30%; width:30%" > -->
 - Implement user authentication using Firebase Authentication. Sign up for new users. Login and logout for existing users.
 
 ## Iteration 3
 
-### Viewscreen(Jing Luo)
+### Viewscreen
 - Building a view screen showing all the comments and information of a specific cloth
 
-### Optimise images to improve UX(Jing Luo)
+### Optimise images to improve UX
 - Resizing images to optimise images and updating database 
 
-### My Profile(Zongyi Jiang)
+### My Profile
 - add Notification when pressing "Check Current Clothes Number" button, it will show the current number of clothes in database.
 
-### Add New(Zongyi Jiang)
+### Add New
 - add external api for each clothes, it allows user to upload a certain shopping website
 
-### Top 10 (Peiyao Li)
+### Top 10
 - add top sorting, user info and like amount on top 10 clothes
